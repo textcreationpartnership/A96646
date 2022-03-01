@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words in love to all those bishops, priests &amp; magistrates, and others, who have had a hand in persecuting the innocent, (and yet looked to be excused, because, as they think, they have law for what they do) for them to vveigh and consider in the fear of God, and then see how far they will stand justified in his sight.</title>
+            <author>Willsford, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96646</idno>
+            <idno type="STC">Wing W2870</idno>
+            <idno type="STC">ESTC R186626</idno>
+            <idno type="EEBO-CITATION">47683564</idno>
+            <idno type="OCLC">ocm 47683564</idno>
+            <idno type="VID">173019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words in love to all those bishops, priests &amp; magistrates, and others, who have had a hand in persecuting the innocent, (and yet looked to be excused, because, as they think, they have law for what they do) for them to vveigh and consider in the fear of God, and then see how far they will stand justified in his sight.</title>
+                  <author>Willsford, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: The 22d of the 3d month, 1680. John Willsford.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:173019:1" rendition="simple:additions"/>
+            <head>A few Words in Love to all thoſe Biſhops, Prieſts &amp; Magiſtrates, And Others, who have a Hand in Perſecuting the INNOCENT, (And yet look to be Excuſed, becauſe, as they think, they have <hi>Law</hi> for what they do) For them to VVeigh and Conſider in the Fear of God, and then ſee <hi>How far they will ſtand Juſtified in his Sight.</hi>
+            </head>
+            <p>DO you think it is not hard meaſure for People to be caſt into Priſon only for Conſcience-ſake, and there to be kept Year after Year, and no notice taken of us, except it be to continue us Priſoners? Oh conſider! there hath been care taken for the Relief of poor Debtors, but ſome of the People of God called <hi>Quakers</hi> have been continued Priſoners ſeveral Years, and no care taken for our Relief, by any of our Perſecutors: Is this to viſit Priſoners ac<g ref="char:EOLhyphen"/>cording to the Mind of Chriſt? ſee <hi>Mat.</hi> 25. If thoſe that <hi>will not Feed the Hungry, Cloath the Naked and Viſit ſuch Priſoners,</hi> as truly believe in Chriſt, which he calls <hi>Brethren, muſt go into Everlaſting Fire, prepared for the Devil and his Angels,</hi> what will become of thoſe who have a hand in caſting into Priſon, and in taking that away from ſuch as truly believe in Chriſt, which ſhould ſatisfie their Hunger, and cloath their Nakedneſs? Conſider this, ye Perſecutors of all ſorts; <hi>A Dreadful Day of Vengeance</hi> from the Lord is near to come upon you, except ye Repent and amend your Wayes! the Cry of the Oppreſſed is loud in the Ears of the Lord God of Heaven and Earth! and he will ſurely viſit this Nation of <hi>England</hi> for its Inquities! He takes what is done unto his People, as done unto himſelf, whether it be good or evil. Chriſt ſaid to <hi>Saul</hi> when he was going to <hi>Damaſcus</hi> to bring ſuch as called upon the Name of the Lord bound to <hi>Jeruſalem, Saul, Saul, why Perſecuteſt thou me?</hi> [Mark, It was <hi>Christ Jeſus</hi> that <hi>Saul</hi> was Perſecuting, although its like he might think, as ſome do in theſe days, <hi>That he was not perſecuting Jeſus, but a company of ſtubborn Fellows that would not obey the Laws, nor ſatisfie the Wills of the Prieſts,</hi> from whom he had his Letters to perſecute, as perhaps ſome have now.] But further Jeſus ſaid, <hi>Its hard for thee to kick againſt the Prick:</hi> Take notice of this, ye <hi>Perſecutors,</hi> are ye not ſometimes pricked in your Hearts, when ye take our Goods, or caſt our Bodies into Priſon? and do you not kick againſt it, and make merry over that in your ſelves, which witneſſes againſt you, and boulſter up your ſelves with the Law? but certainly the Law will not excuſe you. <hi>Paul,</hi> as touching the Law, ſaid, <hi>He walked Blameleſs;</hi> which is more than many of our Perſecutors do now adayes; yet he was a Perſecutor (and a Conſent or to the Death of that bleſſed Martyr <hi>Stephen)</hi> a Blaſphemer and the chief of Sinners! <hi>O wretched man that I am!</hi> ſaid he, <hi>who ſhall deliver me from this Body of Sin and Death?</hi> He was delivered, but not whilſt he followed, and ſought to keep favour with the Prieſts; <hi>It was the Law of the Spirit of Life in Chriſt Jeſus,</hi> which made him Free from the Law of Sin and Death, and then they hated him, and perſecu<g ref="char:EOLhyphen"/>ted him alſo: But I would not be miſ-underſtood, for the Law which is for the puniſhment of Evil-doers, and the Praiſe of them that do well, we dearly own and obey, and the reſt we ſuffer under, without ſeeking Revenge; but the heavenly God is angry with all ſuch who make uſe of Laws to Spoil their Neighbours Goods, and caſt their Bodies into Priſon, which were not made nor intended againſt them, as is manifeſt at this time in <hi>England;</hi> there is no Peo<g ref="char:EOLhyphen"/>ple in the Nation more clear in Judgment and Practice againſt Popery, than we who are called <hi>Quakers;</hi> and yet it is known to the Lord and many People, how greatly many of us have and do Suffer by Laws made only againſt them, and alſo by an Act made in latter Years, by which our Goods are ſpoiled by wicked Infor<g ref="char:EOLhyphen"/>mers, for our peaceable Meeting together to Worſhip God; I ſay, God is Angry with all ſuch that cauſe People to ſuffer for the Exerciſe of their tender Con<g ref="char:EOLhyphen"/>ſciences to him; and it will not be waſhing of their hands, <hi>Pilate-</hi>like, and ſay<g ref="char:EOLhyphen"/>ing, <hi>It is not them, but the Law, by which we ſuffer,</hi> that will excuſe them; the <hi>Jews</hi> pleaded Law againſt Chriſt, but will any Chriſtian ſay, <hi>they were Excuſa<g ref="char:EOLhyphen"/>ble becauſe of that?</hi> no ſuch matter: If they had rightly underſtood the Law, or had not been wilfully blind, they might have ſeen that the Law took no hold of Chriſt Jeſus, being Innocent; but their Envy blinded their Eyes, ſo that they choſe to have <hi>Barabas</hi> releaſed, who for certain Inſurrection made in the City, and for Murder was caſt into Priſon, and the Son of God they would have crucified, ſaying, with one accord, <hi>Away with him.</hi> And oh that none may be of their minds in <hi>England!</hi> who made the Innocent to ſuffer, and let the Guilty go free.</p>
+            <p>But ſome may <hi>Object,</hi> and ſay, <hi>The Law is plain for the</hi> Payment of Tythes, <hi>for</hi> Swearing before a Magiſtrate, <hi>and for</hi> Going to Church, <hi>and you</hi> Quakers <hi>will do none of theſe, which is a great Cauſe of your Sufferings now.</hi>
+            </p>
+            <p>Well, as to theſe Particulars there hath been ſo many faithful Teſtimonies born, both in Sufferings, Words and Writings, which one would think might have convinced our Perſecutors, if they had not wilfully ſhut their Eyes and ſtoped their Ears; therefore I ſhall only make a ſhort Reply for the clearing of my ſelf.</p>
+            <p>And <hi>firſt,</hi> as touching <hi>Tythes,</hi> Its true, they were commanded in the time of the <hi>Levitical</hi> Law; but Chriſt Jeſus was and is the End of that Law, for Righteouſ<g ref="char:EOLhyphen"/>neſs-ſake to every one that believes; and he ſent his Miniſters to preach Freely; and the Apoſtle ſaith in <hi>Heb. 7. There is a diſanulling of the Commandment going before, for the Weakneſs and <g ref="char:V">Ʋ</g>nprofitableneſs thereof: And the Prieſthood being Changed,</hi> ſaith he, <hi>there is of Neceſſity a Change of the Law.</hi> So its plain they were Ended by Chriſt, and were brought up again in the Mid-night of <hi>Darkneſs</hi> and <hi>Popery;</hi> and ſince have been a very great Oppreſſion; and God hath re<g ref="char:EOLhyphen"/>quired us to bear our Teſtimonies againſt them, for which many of us have ſuf<g ref="char:EOLhyphen"/>fered great Spoiling of our Goods, and ſome Impriſonment till Death, in naſty Holes; and many are Priſoners at this time, as Witneſſes againſt them.</p>
+            <p>And as concerning <hi>Swearing,</hi> I have this to ſay, and that from the Lord God, That there is no Safety to any Magiſtrate or People in Oathes; and the Lord, whoſe Command all the Swearers break, will make the Sons of men to know it in his own time; and if they did not wilfully ſhut their Eyes, they might have ſome ſight of it already; for how often have ſome of the People of <hi>England</hi> Sworn too and again, ſometimes One Way, and ſomtimes Another? notwith<g ref="char:EOLhyphen"/>ſtanding our Lord and Maſter Chriſt Jeſus ſaith, <hi>Swear Not at all;</hi> and the Apoſtle <hi>James</hi> ſaith, <hi>Above all things my Brethren</hi> Swear <hi>not;</hi> and the Prophet ſaith, <hi>Becauſe of</hi> Swearing <hi>the Land Mourns;</hi> and ſo doth this Land, and will more and more, if this Yoke of Oppreſſion be not taken off the Neck of the Oppreſſed, who deny Swearing for no other end, but for Conſcience-ſake, it being a Breach of the Command of Chriſt, and have more regard to their Words, than many have to their Oaths.</p>
+            <p>And as concerning <hi>Going to Church,</hi> as it is called; The Church which is in God, the Pillar and Ground of Truth, we dearly own and joyn unto; and we do Worſhip God in Spirit and Truth, which is the Worſhip that Chriſt Jeſus ſet up above Sixteen Hundred Years ago: And we think it hard Meaſure, that we ſhould be made to ſuffer ſo deeply by long Impriſonments and Spoiling of our Goods, for ſo long warranted a Practice, eſpecially by ſuch who ſeem to pray for the ſame themſelves, as may be ſeen at large in the Book of <hi>Common-Prayer;</hi> but ſurely the Law will not excuſe our Perſecutors before the great God of Heaven and Earth; therefore, Oh that they would lay it to heart, and ceaſe fighting againſt him, for he will be too hard for them! The Day haſtens that he will Avenge the Sufferings of his People; he ſees what Snares are laid for the Innocent, and how Miſchief is hatched upon the Beds of the Ungodly, and what Wickedneſs is daily acted in the Streets, both of great Towns and Villages, in Sports and Playes; and he alſo ſees what is done in ſecret; Oh! therefore, Repent, Repent in time, you that have any Tenderneſs or Remorſe upon your Spirits! Turn to the Lord, that he may heal you and gather you in<g ref="char:EOLhyphen"/>to his heavenly Ark, where the Safety only is; for a Day of Sorrow and Trouble draws near to come upon all the Ungodly, and many Warnings you have had: Oh! how large hath the Love of God been to this Nation! How often hath he diſcovered the Wickedneſs of the Wicked, who have ſought its Ruin, and hath given you ſpace to Repent, as well as a ſight of your Enemies? There<g ref="char:EOLhyphen"/>fore do not make the Innocent to ſuffer, but ceaſe to do Evil, and learn to do Well, that the Lord may ſhew Mercy unto you, and gather you under the Shadow of his Heavenly Wings, that ye may be Nouriſhed and Sheltered from the Devourer.</p>
+            <closer>
+               <hi>Thus far I have cleared my ſelf of that which for ſome time hath lain upon me,</hi> 
+               <signed>who am a Lover of Truth, and yet continued a Priſoner for it, with Fourteen more of my Suffering Brethren.
+John Willsford.</signed>
+               <dateline>
+                  <date>The 22d of the 3d Moneth, 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
